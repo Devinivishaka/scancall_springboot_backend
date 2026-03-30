@@ -4,6 +4,10 @@ target/
 !**/src/main/**/target/
 !**/src/test/**/target/
 
+
+application.properties
+service-account.json
+service-account-oldn
 ### STS ###
 .apt_generated
 .classpath
